@@ -10,4 +10,4 @@ Już 9 marca 2026 możesz wcielić się w rolę Agenta V w ramach AI_Devs 4.
 ### Misje
 - Misja 1 — zakończona
 - Misja 2 — zakończona
-- Misja 3 — do wykonania
+- Misja 3 — zakończona
