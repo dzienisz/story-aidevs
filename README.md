@@ -7,7 +7,10 @@ W każdym zadaniu znajdziesz "FLAGĘ", czyli słowo będące rozwiązaniem zadan
 
 Już 9 marca 2026 możesz wcielić się w rolę Agenta V w ramach AI_Devs 4.
 
-### Misje
-- Misja 1 — zakończona
-- Misja 2 — zakończona
-- Misja 3 — zakończona
+### Status Misji
+- [x] **Misja 1**: Analiza (Zakończona)
+- [x] **Misja 2**: Firmware (Zakończona - Flaga: `VRFDEVS`)
+- [x] **Misja 3**: API (Zakończona - Flaga: `HACKED`)
+
+🎉 **Wszystkie systemy online. Gotowość bojowa potwierdzona.**
+Widzimy się w AI_Devs 4!
